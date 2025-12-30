@@ -7,7 +7,6 @@ Este repositório serve para documentar problemas e soluções que tenho encontr
 Aqui estão as informações do sistema onde as soluções foram aplicadas:
 
 ```
-ecode@lakshmi 
 ------------- 
 OS: CachyOS x86_64 
 Host: Gigabyte Technology Co., Ltd. Z490M GAMING X 
